@@ -1,4 +1,11 @@
 {
+   "sharing": {
+            "twitter": true,
+            "facebook": true,
+            "google": false,
+            "weibo": false,
+            "all": ["twitter", "facebook"]
+        },
     "styles": {
         "website": "https://app.inuweb.eu/demo/lib/css/ep.material.iNuweb.light.css?v=1.9.0.7"
     }
